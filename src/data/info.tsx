@@ -1,0 +1,42 @@
+export const info = [
+  {
+    id: 1,
+    name: "Drake Swanson",
+    phone: "1-887-452-9297",
+    email: "ut.quam@google.net",
+    country: "Canada",
+    alphanumeric: "TYX51IJO8WL",
+  },
+  {
+    id: 2,
+    name: "Cara Ross",
+    phone: "(903) 581-1318",
+    email: "molestie.tortor@icloud.couk",
+    country: "China",
+    alphanumeric: "BME04KMF9SI",
+  },
+  {
+    id: 3,
+    name: "Zeph Chandler",
+    phone: "1-254-113-6217",
+    email: "non.luctus.sit@google.com",
+    country: "Canada",
+    alphanumeric: "TGL81QTP8TJ",
+  },
+  {
+    id: 4,
+    name: "Iliana Crane",
+    phone: "1-967-772-1906",
+    email: "lacus.ut@outlook.com",
+    country: "Australia",
+    alphanumeric: "ZQL17HYR9ZQ",
+  },
+  {
+    id: 5,
+    name: "Kane Justice",
+    phone: "(699) 362-4963",
+    email: "vivamus.non@hotmail.couk",
+    country: "Singapore",
+    alphanumeric: "POQ47MAH2CO",
+  },
+];
